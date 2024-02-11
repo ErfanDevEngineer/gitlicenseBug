@@ -1,0 +1,2 @@
+# gitlicenseBug
+remove license bug
